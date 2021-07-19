@@ -1,6 +1,6 @@
 # Magic Potion Launch Site
 
-Curology has just created a new product that will revolutionize the skincare industry and we're ready to unveil it to the world. This product is so different and magical that it requires its very own distinct workflow separate from the other Curology products. You are tasked with developing this new site.
+exComp has just created a new product that will revolutionize the skincare industry and we're ready to unveil it to the world. This product is so different and magical that it requires its very own distinct workflow separate from the other Curology products. You are tasked with developing this new site.
 
 We understand you have other priorities. You may work at your own tempo to complete this assignment. On average this exercise should take approximately 4-6 hrs to complete. Please inform us should you require more than a week's time to submit or have opted to not complete the assignment. Your feedback is extremely important to us and will help us refine our process.
 
